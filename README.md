@@ -30,7 +30,7 @@ Follow these instructions to set up the Finesse Task Management App locally on y
 
    ```bash
    git clone
-   https://github.com/Prince-isaac04/Finnese-Task-Management-app.git
+   https://github.com/JasperZeroes/jasperzeroes.github.io.git
    cd Finnese-Task-Management-app
    ```
 
